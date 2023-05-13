@@ -34,7 +34,7 @@ cd extractor
 python3 main.py
 ```
 
-This is going to extract the data from movies and save it locally in the sqlite db.
+This is going to extract the data from movies and save it locally in the sqlite db, I added the movies.db content in the repo, just in case.
 
 Go to the api folder for the step 2:
 
@@ -70,3 +70,4 @@ For testing the APP, you can run the following command in the app folder:
 ```bash
 npm run test
 ```
+
