@@ -14,9 +14,9 @@ simple interface. For instance, by using Flask-AppBuilder.
 
 ## Requirements:
 
-Python 3.11.3 (+ virtualenv)
-SQLite version 3.37.0
-NodeJS v19.9.0
+- Python 3.11.3 (+ virtualenv)
+- SQLite version 3.37.0
+- NodeJS v19.9.0
 
 ## How to run:
 
